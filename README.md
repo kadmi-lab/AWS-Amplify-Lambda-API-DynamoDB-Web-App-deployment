@@ -34,8 +34,8 @@
 3.3. Provide Lambda function and choose function:math-webapp-function
 
 3.4. Enable CORS and mark POST in Access-Control-Allow-Methods
-
 (Enable CORS configuring the function to handle requests from different origins,so we should be able to work across those domains or origins)
+
 3.5. Deploy API with Stage "dev"
 -Save API Gateway URL
 
@@ -70,7 +70,6 @@ Execution Role Policy JSON.txt
 4.7. Copy upgraded code to Lambda function from file math-webapp-Lambda-FINAL.txt
 
 4.8. Deploy and Test
-
 -Check in DynamoDB if result appeared clicking on "Explore table items"
 
 5. Add a connector between Amplify and API Gateway
