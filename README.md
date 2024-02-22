@@ -27,6 +27,7 @@
 }
 
 3. Invoke the math functionality via API Gateway
+   
 3.1. Create REST API with name math-webapp-api
    
 3.2. Create method - POST (as we are going to send data)
